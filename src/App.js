@@ -1,8 +1,7 @@
-import TaskView from "./components/06-CustomHooks/Task/Index";
-import Forms from "./components/07-Forms/Index";
+import UserForm from "./components/08-Redux/UserForm";
 
 function App() {
-  return <Forms />;
+  return <UserForm />;
 }
 
 export default App;
