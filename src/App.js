@@ -1,7 +1,7 @@
-import ReactHooks from "./components/11-ReactHooks/Index";
+import Animation from "./components/12-Animation/02-transition-events/Animation";
 
 function App() {
-  return <ReactHooks />;
+  return <Animation />;
 }
 
 export default App;
