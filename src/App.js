@@ -1,7 +1,7 @@
-import Layout from "./components/10-Router/Layout";
+import ReactHooks from "./components/11-ReactHooks/Index";
 
 function App() {
-  return <Layout />;
+  return <ReactHooks />;
 }
 
 export default App;
