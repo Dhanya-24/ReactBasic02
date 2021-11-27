@@ -1,7 +1,7 @@
-import UserCart from "./components/09-AdvRedux/UserCart";
+import Layout from "./components/10-Router/Layout";
 
 function App() {
-  return <UserCart />;
+  return <Layout />;
 }
 
 export default App;
